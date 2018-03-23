@@ -1,0 +1,74 @@
+body{
+	margin:0px;
+	padding:0px;
+	background-color: #dedede;
+}
+.container .col-xs-12 .login {
+	position:absolute;
+	padding: 15px;
+	margin: 50px 80px;
+	background-color: #fff;
+	border-radius: 5px;
+	width: 560px;
+}
+
+.container .login h2{
+	text-align: center;
+}
+
+.container .login .col-table{
+	width:250px;
+}
+
+.container .login .col-table input{
+    width:200px;
+}
+.container .login .middle{
+	width:50px;
+	background-color:#000;
+	padding: 15px;
+	margin:10px;
+}
+
+.container .login a{
+    text-align: center;
+}
+
+.container .login input{
+    display: block;
+    text-decoration: none;
+    margin: 0 auto;
+}
+
+.container .login #logar{
+	width:200px;
+    background-color: #4DAADC;
+    border-radius: 5px;
+    color:#fff;
+    border: none;
+    text-shadow: none;
+}
+
+.container .login #fb-bt{
+	text-align:right;
+	width:200px;
+    border-radius: 5px;
+    color:#fff;
+    border: none;
+    text-shadow: none;
+    background-color:#3B5998;
+}
+
+.container .login #google-bt{
+	text-align:right;
+	width:200px;
+	background-color:#CD2626;
+    border-radius: 5px;
+    color:#fff;
+    border: none;
+    text-shadow: none;
+}
+
+
+
+
